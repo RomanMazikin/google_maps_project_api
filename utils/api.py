@@ -3,8 +3,6 @@ from utils.http_methods import HttpMethods
 base_url = 'https://rahulshettyacademy.com'   # базовая url
 key = '?key=qaclick123'                       # параметр для всех запросов
 
-"""методы для тестирования Google maps api"""
-
 
 class GoogleMapsApi:
     """Методы для создания, изменения и удаления новой локации"""
